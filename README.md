@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Gawas</h1>
-<h3 align="center">AI Builder · Full-Stack Developer · National Stand-Up Comedy Champion</h3>
+<h3 align="center">AI Builder · Full-Stack Developer · Stand-Up Comedy Performer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E3A8C&center=true&vCenter=true&width=600&lines=Final-Year+B.Tech+IT+Student+%40+PCCE+Goa;Building+RAG+Pipelines+%26+AI+Automation;Full-Stack+Web+Developer;Co-Founder%2C+RentYourRide.in;National+Stand-Up+Comedy+Champion" alt="Typing SVG" />

@@ -19,7 +19,7 @@
 - 💼 Currently a **Software & Product Development Intern @ Essity** (Ponda, Goa), building product prototypes, automation workflows, and RAG pipelines
 - 🚀 Co-Founder & Lead Developer of **[RentYourRide.in](https://github.com/ShreyashGawas777)**, a vehicle-rental marketplace for Goa's tourism sector — 2nd Prize, PCCE Aavishkar Startup Expo
 - 🤖 I like turning generative AI into things that actually run — LLM integrations, n8n automation, voice-to-text pipelines, browser extensions
-- 🎤 National Stand-Up Comedy Champion (WordsUp 7.0 Literary Festival, 360+ participants) — I write code by day and jokes by night
+- 🎤 Stand-Up Comedy Winner (WordsUp 7.0 Literary Festival) — I write code by night and jokes by day
 - 🌱 Currently exploring Retrieval-Augmented Generation, agentic workflows, and building AI communities on campus
 - ⚡ Fun fact: I've organized an AI hackathon for 62 students, led a workshop for 40+, and still make time to script a stand-up set
 
